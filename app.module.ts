@@ -25,7 +25,11 @@ import { FormGroup, FormControl,Validators } from '@angular/forms';
   imports: [
     BrowserModule,
     AppRoutingModule,
-    FormsModule
+    ReactiveFormsModule,
+    FormsModule,
+    FormGroup, 
+    FormControl,
+    Validators
     
   ],
   providers: [],
