@@ -5,8 +5,8 @@ import { AppComponent } from './app.component';
 import { FormsModule } from '@angular/forms';
 import { ReactiveFormsModule } from '@angular/forms';
 import { AboutComponent } from './about/about.component';
-import { ListComponent } from './privacy/privacy.component';
-import { CreateComponent } from './terms/terms.component';
+import { ListComponent } from './list/list.component';
+import { CreateComponent } from './create/create.component';
 import { HomeComponent } from './home/home.component';
 import { FormGroup, FormControl,Validators } from '@angular/forms';
 
