@@ -1,9 +1,9 @@
 import { NgModule, Component } from '@angular/core';
 import { Routes, RouterModule } from '@angular/router';
 import { AboutComponent } from './about/about.component';
-import { CreateComponent } from './privacy/privacy.component';
-import { listComponent } from './terms/terms.component';
-import { HomeComponent} from './header/header.component';
+import { ListComponent } from './list/list.component';
+import { CreateComponent } from './create/create.component';
+import { HomeComponent } from './home/home.component'
 
 
 
